@@ -1,10 +1,25 @@
 func isPalindrome(x int) bool {
-    int_string := strconv.Itoa(x)
-    n := len(int_string)
-    for i := 0; i < len(int_string)/2; i++ {
-        if rune(int_string[i]) != rune(int_string[n - 1 - i]) {
-            return false
+    if x < 0 {
+        return false
+    }
+
+    if x < 10{
+        return true
+    }
+
+    if x%10 == 0 {
+        return false
+    }
+
+    part := 0
+    for x > 0 {
+        part = part*10+x%10
+        x /= 10
+
+        if part == x || part == x/10 {
+            return true
         }
     }
-    return true
+
+    return false
 }
