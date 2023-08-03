@@ -1,8 +1,10 @@
+import "math"
+
 func maxProfit(prices []int) int {
-    minPrice := prices[0]
+    minPrice := math.MaxInt64
     maxProfit := 0
-    for i := 1; i < len(prices); i++ {
-        price := prices[i]
+
+    for _, price := range prices {
         if price < minPrice {
             minPrice = price
         } else {
@@ -12,5 +14,6 @@ func maxProfit(prices []int) int {
             }
         }
     }
+
     return maxProfit
 }
