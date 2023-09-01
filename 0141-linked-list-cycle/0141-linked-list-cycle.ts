@@ -1,15 +1,18 @@
 function hasCycle(head: ListNode | null): boolean {
-    const check = new Set<ListNode | null>()
-    let res: boolean = false
-    
-    while (head && !res){
-        {check.has(head)
-            ?
-            res = true
-            :
-            check.add(head)
-            head = head.next
-        }
+    if (!head || !head.next) {
+        return false; // No cycle if there are less than 2 nodes
     }
-    return res
-};
+    
+    let slow = head;
+    let fast = head.next;
+    
+    while (fast && fast.next) {
+        if (slow === fast) {
+            return true; // Cycle detected
+        }
+        slow = slow.next;
+        fast = fast.next.next;
+    }
+    
+    return false; // No cycle detected
+}
