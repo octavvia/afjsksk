@@ -1,26 +1,17 @@
 class Solution {
-    int threeSumClosest(List<int> nums, int target) {
-      nums.sort();
-      List<int> res = [];
-      int l;
-      int r;
-      int first;
-      int sum = 0;
-      while(nums.length > 2){
-          first = nums.removeAt(0);
-          l = 0;
-          r = nums.length-1;
-          while (l < r){
-            sum = first + nums[l] + nums[r];
-            if(sum == target){
-                return sum;
-            }
-            sum < target ? l++: r--;
-            res.add(sum);
+  int threeSumClosest(List<int> nums, int target) {
+    int closest = (nums[0] + nums[1] + nums[2] - target).abs(); 
+    int val = nums[0] + nums[1] + nums[2];
+    for(int i = 0 ; i < nums.length ; ++i){
+      for(int x = i + 1; x < nums.length ; ++x){
+        for(int z = x + 1; z < nums.length ; ++z){
+          if((nums[i] + nums[x] + nums[z] - target).abs() < closest){
+            closest = (nums[i] + nums[x] + nums[z] - target).abs();
+            val = nums[i] + nums[x] + nums[z];
           }
-
+        }
       }
-      return res.reduce((prev,curr)=> 
-             (curr-target).abs() < (prev-target).abs() ? curr: prev);
     }
+    return val;
+  }
 }
