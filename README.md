@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/octavvia/afjsksk/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/octavvia/afjsksk/tree/master/0054-spiral-matrix) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -14,3 +15,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/octavvia/afjsksk/tree/master/0053-maximum-subarray) |
+# Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/octavvia/afjsksk/tree/master/0054-spiral-matrix) |
+# Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/octavvia/afjsksk/tree/master/0054-spiral-matrix) |
