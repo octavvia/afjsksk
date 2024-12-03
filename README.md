@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/octavvia/afjsksk/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/octavvia/afjsksk/tree/master/0086-partition-list) |
 ## Array
 |  |
 | ------- |
@@ -52,4 +53,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/octavvia/afjsksk/tree/master/0085-maximal-rectangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/octavvia/afjsksk/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
