@@ -57,4 +57,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/octavvia/afjsksk/tree/master/0086-partition-list) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/octavvia/afjsksk/tree/master/0089-gray-code) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/octavvia/afjsksk/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/octavvia/afjsksk/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
