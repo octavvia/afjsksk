@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/octavvia/afjsksk/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/octavvia/afjsksk/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/octavvia/afjsksk/tree/master/0086-partition-list) |
 ## Array
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/octavvia/afjsksk/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/octavvia/afjsksk/tree/master/0086-partition-list) |
 ## Math
 |  |
