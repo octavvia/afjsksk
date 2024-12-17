@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/octavvia/afjsksk/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/octavvia/afjsksk/tree/master/0087-scramble-string) |
 ## Matrix
 |  |
 | ------- |
@@ -80,4 +81,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/octavvia/afjsksk/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/octavvia/afjsksk/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
