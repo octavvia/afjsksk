@@ -85,7 +85,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/octavvia/afjsksk/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/octavvia/afjsksk/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/octavvia/afjsksk/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/octavvia/afjsksk/tree/master/0091-decode-ways) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/octavvia/afjsksk/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/octavvia/afjsksk/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
