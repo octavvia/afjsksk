@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/octavvia/afjsksk/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/octavvia/afjsksk/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/octavvia/afjsksk/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/octavvia/afjsksk/tree/master/0084-largest-rectangle-in-histogram) |
@@ -74,12 +75,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/octavvia/afjsksk/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/octavvia/afjsksk/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/octavvia/afjsksk/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/octavvia/afjsksk/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/octavvia/afjsksk/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/octavvia/afjsksk/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/octavvia/afjsksk/tree/master/0090-subsets-ii) |
 ## String
